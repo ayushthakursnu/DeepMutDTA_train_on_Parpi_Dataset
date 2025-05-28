@@ -1,7 +1,7 @@
 
 ---
 
-# Label-Aware Contrastive Learning Enables Drug Discovery for Resistance Mutation Targets
+# Deep Contrastive Learning for High-Throughput Prediction of Drug Resistance Mutations from Sequences
 
 **DeepMutDTA** is a novel label-aware contrastive learning framework that deciphers the impact of protein mutations on drug-target affinity (DTA). This repository provides a comprehensive implementation designed to predict DTA while addressing challenges related to mutation-induced variations. By integrating advanced sequence-based models with a specialized fine-tuning mechanism, DeepMutDTA achieves robust performance even when experimental data are limited.
 
